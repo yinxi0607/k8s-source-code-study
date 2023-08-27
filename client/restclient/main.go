@@ -1,5 +1,9 @@
 package main
 
+/*
+	restClient是最基础的客户端，能够处理多种类型的调用，返回不同的数据格式
+*/
+
 import (
 	"context"
 	"fmt"

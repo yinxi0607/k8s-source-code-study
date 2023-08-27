@@ -1,5 +1,9 @@
 package main
 
+/*
+  clientSet 是一种最基础的客户端，，在restClient基础上封装了对Resource和Version的管理方法
+*/
+
 import (
 	"context"
 	"fmt"
